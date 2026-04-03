@@ -24,7 +24,7 @@ A modern desktop application to discover and download Linux distributions.
 ## Download
 
 ### Ready-to-Use EXE (Recommended)
-- [LinuXplore.exe](https://github.com/linuxplore/linuxplore/releases) - Ready to run for Windows
+- [LinuXplore.exe]- Ready to run for Windows
 
 ### Run from Source Code
 
@@ -37,7 +37,7 @@ A modern desktop application to discover and download Linux distributions.
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/linuxplore/linuxplore.git
+git clone https://github.com/cangurel81/LinuXplore-Linux-Distro-Downloader
 cd linuxplore
 ```
 
@@ -113,8 +113,7 @@ GNU General Public License v3.0 - See LICENSE file for details.
 
 ## Contact
 
-- GitHub Issues: [Report Issue](https://github.com/linuxplore/linuxplore/issues)
-- Website: [linuxplore.app](https://linuxplore.app)
+- Website: [WebAdHere](https://webadhere.com)
 
 ---
 
@@ -148,7 +147,7 @@ Linux dağıtımlarını keşfetmek ve indirmek için modern bir masaüstü uygu
 ## İndirme
 
 ### Hazır EXE İndir (Önerilen)
-- [LinuXplore.exe](https://github.com/linuxplore/linuxplore/releases) - Windows için hazır çalıştırılabilir
+- [LinuXplore.exe]Windows için hazır çalıştırılabilir
 
 ### Kaynak Koddan Çalıştırma
 
@@ -161,7 +160,7 @@ Linux dağıtımlarını keşfetmek ve indirmek için modern bir masaüstü uygu
 
 1. Repoyu klonlayın:
 ```bash
-git clone https://github.com/linuxplore/linuxplore.git
+git clone https://github.com/cangurel81/LinuXplore-Linux-Distro-Downloader
 cd linuxplore
 ```
 
@@ -237,8 +236,7 @@ GNU General Public License v3.0 - Daha fazla bilgi için LICENSE dosyasına baka
 
 ## İletişim
 
-- GitHub Issues: [Sorun Bildirin](https://github.com/linuxplore/linuxplore/issues)
-- Web Sitesi: [linuxplore.app](https://linuxplore.app)
+- Web Sitesi: [WebAdHere](https://webadhere.com)
 
 ---
 
