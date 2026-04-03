@@ -21,6 +21,8 @@ A modern desktop application to discover and download Linux distributions.
 - Rocky Linux, AlmaLinux, openSUSE (Server)
 - And more...
 
+<img width="1275" height="723" alt="Ekran görüntüsü 2026-04-03 202832" src="https://github.com/user-attachments/assets/801399d1-2864-4db7-9428-241f52bcb88b" />
+
 ## Download
 
 ### Ready-to-Use EXE (Recommended)
@@ -143,6 +145,8 @@ Linux dağıtımlarını keşfetmek ve indirmek için modern bir masaüstü uygu
 - MX Linux, antiX, Puppy Linux (Hafif)
 - Rocky Linux, AlmaLinux, openSUSE (Sunucu)
 - Ve daha fazlası...
+
+<img width="1273" height="720" alt="Ekran görüntüsü 2026-04-03 202842" src="https://github.com/user-attachments/assets/9f3d323a-bb59-4f68-b2ab-24167fd7155a" />
 
 ## İndirme
 
