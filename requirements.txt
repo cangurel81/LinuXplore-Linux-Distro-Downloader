@@ -1,0 +1,8 @@
+flet
+requests
+beautifulsoup4
+psutil
+lxml
+pathvalidate
+humanize
+pyyaml
